@@ -4,6 +4,8 @@ for NTUC Capstone
 
 Welcome to my Capstone Project, **Smarter Campaign Targeting**, built from the AIAP technical assesment program. This project represents a significant enhancement of the original work — with cleaner data processing, stronger models, and a fully integrated **interactive dashboard**.
 
+Refer to Smarter Campaign Targeting Documentation.docx
+
 ---
 
 ## Objective
@@ -37,7 +39,7 @@ This project uses the bank_full.csv based on a Portuguese bank's marketing campa
 
 ---
 
-##Dashboard Preview
+## Dashboard Preview
 Run `DashboardSmarterCampaignTarget.ipynb` or use the Gradio interface (`gradio.Interface(...)`) to interact with the model.
 
 ---
